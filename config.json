@@ -1,0 +1,13 @@
+{
+  "project_title": "Energy Usage Dashboard",
+  "goal": "Detect energy spikes and improve efficiency.",
+  "entity_name": "meter",
+  "amount_label": "kwh",
+  "score_label": "efficiency_score",
+  "categories": [
+    "office",
+    "lab",
+    "warehouse",
+    "remote"
+  ]
+}
